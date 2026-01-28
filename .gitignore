@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Robot Framework
+output.xml
+log.html
+report.html
+results/
+
+# Playwright / Browser
+node_modules/
+playwright-report/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
